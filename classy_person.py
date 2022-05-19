@@ -9,7 +9,7 @@ don't forget the use of 'self' and to have the methods:
 
 class Person:
 
-    def __init__(self,name,age):
+    def __init__(self,age,name):
         self.name = name
         self.age = age
 
